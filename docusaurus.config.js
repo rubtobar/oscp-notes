@@ -9,7 +9,7 @@ const config = {
   title: 'OSCP Notes',
   tagline: 'Notes of the machines solved during the OSCP study.',
   url: 'https://rubtobar.github.io',
-  baseUrl: '/',
+  baseUrl: '/oscp-notes/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -18,7 +18,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'rubtobar', // Usually your GitHub org/user name.
   projectName: 'oscp-notes', // Usually your repo name.
-  
+
   // GitHub Pages adds a trailing slash to Docusaurus URLs by default. 
   // It is recommended to set a trailingSlash config (true or false, not undefined).
   trailingSlash: false,
