@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkoscp_notes=self.webpackChunkoscp_notes||[]).push([[9700],{5688:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/blog/tags/hola","allTagsPath":"/blog/tags","count":1}')}}]);

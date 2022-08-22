@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoscp_notes=self.webpackChunkoscp_notes||[]).push([[8191],{9944:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/oscp-notes/blog/tags/facebook","allTagsPath":"/oscp-notes/blog/tags","count":1}')}}]);
